@@ -1,4 +1,4 @@
-# Capstone_Project_Credit_Card_Approval:
+# Capstone_Project_Credit_Card_Approval: Machine_Learning
 
 ### Credit Card Approval Machine Learning Project:
 This project aims to develop a supervised machine learning model to predict credit card approval decisions based on customer information and historical data. The model utilizes a dataset of customer attributes and their corresponding credit card approval outcomes.
