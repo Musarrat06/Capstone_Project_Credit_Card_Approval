@@ -14,7 +14,8 @@ Model Training and Evaluation: The selected model is trained on the labeled data
 Predictive Functionality: The trained model is utilized to predict credit card approval decisions for new customer data, providing real-time insights.
 
 **Dependencies:**
-GoogleColab(Python file)
+GoogleColab(ipynb)
+MYSQL
 
 **Libraries:** scikit-learn,
 pandas, matplotlib, numpy.
